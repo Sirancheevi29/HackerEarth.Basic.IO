@@ -1,8 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using HackerEarth.Basic.IO;
+
 Console.WriteLine("Hello, World!");
 
-
-int numberOfSongs = int.Parse(Console.ReadLine());
-List<int> Playlist = Console.ReadLine().Split().Select(int.Parse).ToList();
-
-
+FavoriteSinger.Start();
