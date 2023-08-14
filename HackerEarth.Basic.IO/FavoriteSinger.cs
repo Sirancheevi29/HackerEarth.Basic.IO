@@ -34,8 +34,8 @@ namespace HackerEarth.Basic.IO
         {
             try
             {
-                int NoOfSongs = int.Parse(Console.ReadLine());
-                List<int> playlist = Console.ReadLine().Split().Select(int.Parse).ToList();
+                int NoOfSongs = int.Parse(Console.ReadLine().Trim());
+                List<int> playlist = Console.ReadLine().Trim().Split().Select(int.Parse).ToList();
 
                 if (NoOfSongs == playlist.Count)
                     Console.WriteLine(CountFavouriteSingers(playlist));
