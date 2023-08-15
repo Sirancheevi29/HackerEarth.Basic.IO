@@ -3,4 +3,4 @@ using HackerEarth.Basic.IO;
 
 Console.WriteLine("Hello, World!");
 
-FavoriteSinger.Start();
+MaxBorders.Start();
