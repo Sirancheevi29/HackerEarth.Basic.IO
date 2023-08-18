@@ -3,4 +3,9 @@ using HackerEarth.Basic.IO;
 
 Console.WriteLine("Hello, World!");
 
-MaxBorders.Start();
+//MaxBorders.Start();
+
+//Factorial.Start();
+
+
+Polyndrome.Start();
