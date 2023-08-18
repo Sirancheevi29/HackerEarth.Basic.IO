@@ -7,5 +7,6 @@ Console.WriteLine("Hello, World!");
 
 //Factorial.Start();
 
+//Polyndrome.Start();
 
-Polyndrome.Start();
+ArraySum.Start();
