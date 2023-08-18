@@ -9,4 +9,8 @@ Console.WriteLine("Hello, World!");
 
 //Polyndrome.Start();
 
-ArraySum.Start();
+//ArraySum.Start();
+
+//Divisibility.Start();
+
+Zoo.Start();
